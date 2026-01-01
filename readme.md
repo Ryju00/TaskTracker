@@ -15,12 +15,12 @@ Aplikacja webowa do zarządzania zadaniami/treningami. CRUD + toggle status + fi
 | Spring Boot 4.0.1 | Thymeleaf + Bootstrap 5 | H2 / JPA |
 
 ## Demo
-[![Demo GIF](demo.gif)](demo.gif)
+https://github.com/user-attachments/assets/a1e183f3-5325-4b2b-9f66-37fc4920537c
 
-## Live
-[Heroku/Netlify link] (deploy później)
+
 
 ## Uruchom lokalnie
 ```bash
 mvn spring-boot:run
 # http://localhost:8080/tasks
+
